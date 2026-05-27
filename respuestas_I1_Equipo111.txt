@@ -1,2 +1,5 @@
 A) si
 B) si
+C- si
+D- usando aplicaciones de mensajeria externas o dentro del git hub con commits
+E- con commits
